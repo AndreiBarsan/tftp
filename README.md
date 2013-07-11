@@ -1,5 +1,5 @@
 Simple implementation of the Trivial File Transfer Protocol
-===========================================================
+-----------------------------------------------------------
 
 Known issues:
  - differs from the official RFC in that it treats attempts to write to existing remote files as errors, instead of **only** allowing writing to already-existing remote files
@@ -7,4 +7,3 @@ Known issues:
 
 Author: Andrei Barsan
 License: BSD 2-Clause License
-==========================================
